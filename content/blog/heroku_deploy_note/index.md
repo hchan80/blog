@@ -1,5 +1,5 @@
 ---
-title: Heroku Deploymeny Cheatsheet
+title: Heroku Deployment Cheatsheet
 date: "2019-05-05"
 description: "Heroku"
 ---
